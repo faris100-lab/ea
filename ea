@@ -5,7 +5,7 @@ local AtlasUi = Atlas.new({
     Credit = "Credits: faris";
     Color = Color3.fromRGB(255,0,0);
     UseLoader = false;
-    Bind = "LeftBracket";
+    Bind = "v";
     FullName = "FUCK you";
     CheckKey = nil -- this can be nil to disable key checking
 })
